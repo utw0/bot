@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "dependencies": {
+    "cron": "^1.8.2",
+    "discord.js": "^12.2.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.11.12",
+    "ms": "^2.1.2",
+    "nodemon": "^2.0.7",
+    "table": "^5.4.6"
+  }
+}
