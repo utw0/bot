@@ -1,6 +1,6 @@
 const ayarlar = {
   //-----------GENEL---------------//
-  mongodb: "mongodb+srv://utku:efecs123@cluster0.l3n8b.mongodb.net/75?retryWrites=true&w=majority",
+  mongodb: "",
   sunucuID: '916804112983666738',
   botOwner: "341592492224806914",
   botSesKanali: '927638878117060638',
@@ -31,7 +31,7 @@ const ayarlar = {
   sahip: ["341592492224806914","751596850389450802"],
   yetkilialım: "925758300199464980",
   davet: 'https://discord.gg/Sh8mYF8arf',
-  tag: 'φ',
+  tag: '',
   ikinciTag: '•',
   yasakTaglar: [],
   publicSesKategorisi: "917125406711246898",
@@ -100,7 +100,7 @@ const ayarlar = {
   sesMuteLogKanali: 'mute-log',
   muteLogKanali: 'mute-log',
   reklamLogKanali: "reklam-log",
-  chatKanali: 'reborn-chat',
+  chatKanali: 'chat',
   ekipLogKanali: 'tag-log',
   teyitKanali: 'register-to-server',
   commandkanali: ["yetkili-komut", "bot-commands","register-to-server"]
